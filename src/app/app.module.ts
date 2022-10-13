@@ -12,7 +12,7 @@ const appRoutes : Routes =[
   path:"",component :AddstudentComponent
 },
 {
-  path :"search" ,component :SearchstudentComponent
+  path:"search" ,component :SearchstudentComponent
 }
 ]
 @NgModule({
